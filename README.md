@@ -143,7 +143,7 @@ GROQ_API_KEY=your_groq_api_key_here
 
 <div align="center">
 
-### 🏠 Dashboard — Live Operational Overview
+### Dashboard — Live Operational Overview
 ![Dashboard](Screenshot%202026-07-30%20140117.png)
 
 </div>
