@@ -141,15 +141,12 @@ GROQ_API_KEY=your_groq_api_key_here
 
 ## 📸 Screenshots
 
-> *(Add your dashboard, chat, and analytics screenshots to a `/screenshots` folder and reference them below)*
+<div align="center">
 
-````markdown
+### 🏠 Dashboard — Live Operational Overview
 ![Dashboard](screenshots/dashboard.png)
-![AI Chat](screenshots/chat.png)
-![Analytics](screenshots/analytics.png)
-````
 
----
+</div>
 
 ## 🧩 Known Limitations
 
