@@ -1,0 +1,29 @@
+# Environment variables (API keys, secrets)
+.env
+retrieval/.env
+**/.env
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Node (frontend)
+node_modules/
+dist/
+frontend-v2/dist/
+frontend-v2/node_modules/
+
+# User data (uploaded files, generated indexes)
+data/uploads/
+data/users_index.json
+data/documents_index.json
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
